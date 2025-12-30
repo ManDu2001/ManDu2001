@@ -7,6 +7,7 @@
 <div align=center> 
 
 <div align=center><h1>Problem Solving</h1></div>
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swj0324)](https://solved.ac/swj0324/)
 
 
